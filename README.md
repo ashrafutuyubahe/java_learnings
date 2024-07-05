@@ -28,9 +28,9 @@ Set Up Environment Variables: Configure your system's PATH and JAVA_HOME environ
 Clone the Repository:
  Use the following command to clone this repository:
 
-cmd: git clone https://github.com/yourusername/first-java-program.git
+cmd: git clone https://github.com/ashrafutuyubahe/java_learnings
 2. Navigate to the Project Directory: Change into the project directory:
-
+m
 cd first-java-program
 3. Compile and Run the Programs: Use the javac command to compile the Java files, and the java command to run them. For example:
 
